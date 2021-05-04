@@ -1,4 +1,4 @@
-# micropython-bmp280
+# BMP280 Driver
 
 BMP280 environmental sensor driver for micropython using the I²C interface.
 
